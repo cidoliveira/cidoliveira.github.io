@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 500.27 500.27">
+  <defs>
+    <style>
+      .cls-1 {
+        stroke: url(#Degradado_sin_nombre_26);
+      }
+
+      .cls-1, .cls-2, .cls-3, .cls-4 {
+        fill: none;
+      }
+
+      .cls-1, .cls-2, .cls-4 {
+        stroke-miterlimit: 10;
+      }
+
+      .cls-5 {
+        fill: url(#Degradado_sin_nombre_58);
+      }
+
+      .cls-6, .cls-7, .cls-8 {
+        fill: #fff;
+      }
+
+      .cls-2 {
+        stroke: #fff;
+      }
+
+      .cls-9 {
+        clip-path: url(#clippath-1);
+      }
+
+      .cls-10 {
+        fill: url(#Degradado_sin_nombre_32);
+      }
+
+      .cls-11 {
+        fill: #9375ff;
+      }
+
+      .cls-11, .cls-7 {
+        font-family: Poppins-Medium, Poppins;
+        font-size: 9.75px;
+        font-weight: 500;
+        letter-spacing: .4em;
+      }
+
+      .cls-12 {
+        clip-path: url(#clippath-3);
+      }
+
+      .cls-13 {
+        fill: url(#Degradado_sin_nombre_27-2);
+      }
+
+      .cls-14 {
+        fill: #4008da;
+      }
+
+      .cls-14, .cls-8 {
+        font-family: Poppins-Bold, Poppins;
+        font-size: 44px;
+        font-weight: 700;
+        letter-spacing: .05em;
+      }
+
+      .cls-15 {
+        fill: url(#Degradado_sin_nombre_27);
+      }
+
+      .cls-16 {
+        clip-path: url(#clippath-2);
+      }
+
+      .cls-4 {
+        stroke: url(#Degradado_sin_nombre_26-2);
+      }
+
+      .cls-17 {
+        clip-path: url(#clippath);
+      }
+    </style>
+    <linearGradient id="Degradado_sin_nombre_32" data-name="Degradado sin nombre 32" x1="127.96" y1="166.53" x2="498.44" y2="799.5" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#1306a3"/>
+      <stop offset="1" stop-color="#9375ff"/>
+    </linearGradient>
+    <linearGradient id="Degradado_sin_nombre_27" data-name="Degradado sin nombre 27" x1="79.79" y1="374.64" x2="100.79" y2="374.64" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#9375ff"/>
+      <stop offset="1" stop-color="#1306a3"/>
+    </linearGradient>
+    <linearGradient id="Degradado_sin_nombre_27-2" data-name="Degradado sin nombre 27" x1="98.45" y1="385.18" x2="119.45" y2="385.18" xlink:href="#Degradado_sin_nombre_27"/>
+    <clipPath id="clippath">
+      <path class="cls-3" d="M100.79,385.75h-10.8l-10.2-11.1,10.2-11.1h10.8l-10.25,11.1,10.25,11.1Z"/>
+    </clipPath>
+    <clipPath id="clippath-1">
+      <path class="cls-3" d="M98.55,373.91h10.8l10.2,11.1-10.2,11.1h-10.8l10.25-11.1-10.25-11.1Z"/>
+    </clipPath>
+    <linearGradient id="Degradado_sin_nombre_58" data-name="Degradado sin nombre 58" x1="56.88" y1="55.1" x2="154.38" y2="209.6" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#1306a3"/>
+      <stop offset=".14" stop-color="#1d0eaa"/>
+      <stop offset=".39" stop-color="#3826be"/>
+      <stop offset=".71" stop-color="#654dde"/>
+      <stop offset="1" stop-color="#9375ff"/>
+    </linearGradient>
+    <clipPath id="clippath-2">
+      <path class="cls-3" d="M100.79,127.75h-10.8l-10.2-11.1,10.2-11.11h10.8l-10.25,11.11,10.25,11.1Z"/>
+    </clipPath>
+    <linearGradient id="Degradado_sin_nombre_26" data-name="Degradado sin nombre 26" x1="84.23" y1="115.67" x2="98.03" y2="115.67" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#9375ff"/>
+      <stop offset="1" stop-color="#1306a3"/>
+    </linearGradient>
+    <clipPath id="clippath-3">
+      <path class="cls-3" d="M98.55,115.91h10.8l10.2,11.11-10.2,11.1h-10.8l10.25-11.1-10.25-11.11Z"/>
+    </clipPath>
+    <linearGradient id="Degradado_sin_nombre_26-2" data-name="Degradado sin nombre 26" x1="101.31" y1="127.99" x2="115.11" y2="127.99" xlink:href="#Degradado_sin_nombre_26"/>
+  </defs>
+  <g id="BACKGROUND">
+    <rect class="cls-6" width="500.27" height="500.27"/>
+    <rect class="cls-10" y="250.28" width="500.27" height="249.99"/>
+  </g>
+  <g id="OBJECTS">
+    <g>
+      <g>
+        <text class="cls-8" transform="translate(145.61 387.18)"><tspan x="0" y="0">Cid Oliveira</tspan></text>
+        <text class="cls-7" transform="translate(147.01 408.46)"><tspan x="0" y="0">DESIGNER E DESENVOLVEDOR</tspan></text>
+      </g>
+      <rect class="cls-6" x="68.09" y="348.87" width="61.58" height="61.58" rx="11.47" ry="11.47"/>
+      <g>
+        <path class="cls-15" d="M100.79,385.75h-10.8l-10.2-11.1,10.2-11.1h10.8l-10.25,11.1,10.25,11.1Z"/>
+        <path class="cls-13" d="M98.45,374.07h10.8l10.2,11.1-10.2,11.1h-10.8l10.25-11.1-10.25-11.1Z"/>
+        <g class="cls-17">
+          <polyline class="cls-2" points="97.65 359.57 84.89 374.64 96.19 387.76"/>
+        </g>
+        <g class="cls-9">
+          <polyline class="cls-2" points="101.7 400.08 114.45 385.01 103.15 371.89"/>
+        </g>
+      </g>
+    </g>
+    <g>
+      <g>
+        <text class="cls-14" transform="translate(145.61 129.18)"><tspan x="0" y="0">Cid Oliveira</tspan></text>
+        <text class="cls-11" transform="translate(147.01 150.46)"><tspan x="0" y="0">DESIGNER E DESENVOLVEDOR</tspan></text>
+      </g>
+      <rect class="cls-5" x="68.09" y="90.87" width="61.58" height="61.58" rx="11.47" ry="11.47"/>
+      <g>
+        <path class="cls-6" d="M100.79,127.75h-10.8l-10.2-11.1,10.2-11.11h10.8l-10.25,11.11,10.25,11.1Z"/>
+        <path class="cls-6" d="M98.45,116.07h10.8l10.2,11.1-10.2,11.1h-10.8l10.25-11.1-10.25-11.1Z"/>
+        <g class="cls-16">
+          <polyline class="cls-1" points="97.65 101.57 84.89 116.64 96.19 129.76"/>
+        </g>
+        <g class="cls-12">
+          <polyline class="cls-4" points="101.7 142.08 114.45 127.01 103.15 113.89"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
