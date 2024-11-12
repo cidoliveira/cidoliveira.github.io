@@ -31,7 +31,7 @@
   margin-bottom: 20px;
   border-radius: 4px;
   position: relative;
-  gap: 10px 20px;
+  gap: 20px 40px;
 }
 
 .empresa::before {
